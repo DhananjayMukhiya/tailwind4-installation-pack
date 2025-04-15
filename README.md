@@ -17,7 +17,7 @@ A modern frontend starter kit powered by **Tailwind CSS v4** and **PostCSS**. Th
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tailwind4-startup-pack.git
+git clone https://github.com/DhananjayMukhiya/tailwind4-installation-pack.git
 cd tailwind4-startup-pack
 ```
 
