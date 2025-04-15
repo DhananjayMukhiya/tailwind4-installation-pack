@@ -23,6 +23,16 @@ cd tailwind4-startup-pack
 
 ---
 
+## 📹 Video Tutorial
+
+📺 Watch the full setup tutorial here:  
+👉 [How to Setup Tailwind CSS v4 with PostCSS](https://youtu.be/k_WuDjfkGws?si=5HPhBOtoOPYex_PZ)
+
+> Don’t forget to like 👍 and subscribe 🔔 to [Dhananjay Coders](https://www.youtube.com/@DhananjayCoders)!
+
+
+---
+
 ## 🛠️ Installation Guide (Step-by-Step)
 
 ### 1. Before Tailwind Installation Install Node
@@ -105,5 +115,31 @@ autoprefixer: {},
 ```bash
 npm run start
 ```
+
+---
+
+## 🧑‍💻 Author
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/780ac54c-631d-413c-96af-18dfe650362b" alt="Dhananjay's photo" width="100" style="border-radius: 12px;"/>
+    </td>
+    <td>
+      <b>Dhananjay Mukhiya</b><br>
+      🎓 CSE Student @ NGP Patna<br>
+      💻 Tech Stack: MERN, HTML, CSS, JavaScript<br>
+      🔗 GitHub: <a href="https://github.com/DhananjayMukhiya">@dhananjaymukhiya</a>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## ⭐️ Don't forget to Star the Repository!
+
+> Thanks for visiting! Keep learning and building 🚀
 
 
